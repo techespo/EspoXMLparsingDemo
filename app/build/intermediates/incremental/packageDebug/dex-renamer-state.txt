@@ -1,4 +1,4 @@
-#Sun Mar 19 13:04:10 IST 2017
-base.0=/home/xelium/Ashwini/XeliumGitWorkspace/EspoirsoftXMLParsing/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sun Mar 11 09:58:01 IST 2018
+base.0=E\:\\Workspace\\LearningGitHub\\Android\\AndroidXMLparsing\\EspoXMLparsingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=/home/xelium/Ashwini/XeliumGitWorkspace/EspoirsoftXMLParsing/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=E\:\\Workspace\\LearningGitHub\\Android\\AndroidXMLparsing\\EspoXMLparsingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

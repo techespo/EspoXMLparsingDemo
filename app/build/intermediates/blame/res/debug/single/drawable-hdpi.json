@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/xelium/Ashwini/XeliumGitWorkspace/EspoirsoftXMLParsing/app/build/intermediates/res/merged/debug/drawable-hdpi/item.png",
-        "source": "/home/xelium/Ashwini/XeliumGitWorkspace/EspoirsoftXMLParsing/app/src/main/res/drawable-hdpi/item.png"
+        "merged": "E:\\Workspace\\LearningGitHub\\Android\\AndroidXMLparsing\\EspoXMLparsingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item.png",
+        "source": "E:\\Workspace\\LearningGitHub\\Android\\AndroidXMLparsing\\EspoXMLparsingDemo\\app\\src\\main\\res\\drawable-hdpi\\item.png"
     },
     {
-        "merged": "/home/xelium/Ashwini/XeliumGitWorkspace/EspoirsoftXMLParsing/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
-        "source": "/home/xelium/Ashwini/XeliumGitWorkspace/EspoirsoftXMLParsing/app/src/main/res/drawable-hdpi/icon.png"
+        "merged": "E:\\Workspace\\LearningGitHub\\Android\\AndroidXMLparsing\\EspoXMLparsingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Workspace\\LearningGitHub\\Android\\AndroidXMLparsing\\EspoXMLparsingDemo\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\home\\xelium\\Ashwini\\XeliumGitWorkspace\\EspoirsoftXMLParsing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\home\\xelium\\Ashwini\\XeliumGitWorkspace\\EspoirsoftXMLParsing\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\home\\xelium\\Ashwini\\XeliumGitWorkspace\\EspoirsoftXMLParsing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item.png",
+        "source": "E:\\home\\xelium\\Ashwini\\XeliumGitWorkspace\\EspoirsoftXMLParsing\\app\\src\\main\\res\\drawable-hdpi\\item.png"
     }
 ]
